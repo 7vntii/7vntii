@@ -24,7 +24,7 @@ _These are placeholders — real ones coming soon._
 
 | Project         | Description           | Language |
 |-----------------|-----------------------|----------|
-| **PLACEHOLDER 1** | Coming soon...        | Python   |
+| **SECBypass** | A discord Server n4ker that bypasses security    | Python   |
 | **PLACEHOLDER 2** | Coming soon...        | HTML     |
 | **PLACEHOLDER 3** | Coming soon...        | Python   |
 | **PLACEHOLDER 4** | Coming soon...        | TBD      |
