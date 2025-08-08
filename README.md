@@ -71,6 +71,7 @@ _These are placeholders — real ones coming soon._
 | **GitHub** | [7vntii](https://github.com/7vntii) |
 | **Discord** | `7vntii` |
 | **PyPI**   | [pypi.org/user/7vntii](https://pypi.org/user/7vntii) |
+| **Email**  | `jj9dptr57@mozmail.com` |
 
 ---
 
