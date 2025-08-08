@@ -2,7 +2,7 @@
 <p align="center">Python & HTML Developer · Toolmaker · Occasional Poster</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=440&center=true&lines=Building+random+tools+for+fun;4+years+of+Python+experience;Currently+learning+PyQt5;Check+back+for+real+projects+soon!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=440&center=true&lines=Building+random+tools+for+fun;4+years+of+Python+experience;Currently+learning+PyQt5;Best+tools+!" alt="Typing animation" />
 </div>
 
 ---
@@ -13,7 +13,6 @@
 - **Age:** 16  
 - **Experience:** 4 years of development  
 - **Specialty:** Python scripts and lightweight HTML tools  
-- **Currently Working On:** Nothing specific (just experimenting)  
 - **Learning:** PyQt5 for advanced GUIs  
 - **Posting:** Occasionally, when I make something cool
 
