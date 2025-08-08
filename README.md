@@ -20,8 +20,6 @@
 
 ## ✅ Completed Projects
 
-_These are placeholders — real ones coming soon._
-
 | Project         | Description           | Language |
 |-----------------|-----------------------|----------|
 | **SECBypass** | A discord Server n4ker that bypasses security    | Python   |
